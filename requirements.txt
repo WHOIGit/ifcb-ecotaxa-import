@@ -1,0 +1,5 @@
+python-dotenv
+requests
+Pillow
+tqdm
+git+https://github.com/joefutrelle/pyifcb@v1.1.1
